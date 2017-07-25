@@ -1,7 +1,7 @@
 title:            zubeyir
 tagline:          baba
 description:      Adventures of a man running into 40s
-canonical: http://zubeyir.in
+canonical: http://eksi1arti5.com
 
 # Owner/author information
 owner:
@@ -33,8 +33,8 @@ links:
   - title: Github
     url: https://github.com/zubeyir
     external: true
-  - title: eksi1arti5
-    url: http://eksi1arti5.com
+  - title: zubeyir.in
+    url: http://zubeyir.in
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
